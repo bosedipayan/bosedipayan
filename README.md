@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **computer science fundamentals**
 
-- 👯 I’m looking to collaborate on **open source and full stack projects**
+- 👯 I’m looking to collaborate on **open source and full-stack projects**
 
-- 🤝 I’m looking for help with **working on advanced technologies**
+- 🤝 I’m learning and **working on advanced technologies**
 
 - 💬 Ask me about **DSA , Development**
 
